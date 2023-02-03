@@ -22,5 +22,6 @@ Hobbies and other interests:
 - Guitar
 - Spontaneous Karaoke
 - Writing
+- Scuba Diving
 - Fitness/weightlifting
 ```
